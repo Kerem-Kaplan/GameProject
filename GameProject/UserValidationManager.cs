@@ -11,7 +11,7 @@ namespace GameProject
         public bool Validate(Gamer gamer)
         {
             if (gamer.YearOfBirth == 2002 && gamer.Name == "KEREM" 
-                && gamer.LastName == "KAPLAN" && gamer.IdentityNumber == 12342)
+                && gamer.LastName == "KAPLAN" && gamer.IdentityNumber == 111111)
             {
                 return true;
             }
